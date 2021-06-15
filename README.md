@@ -24,3 +24,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 1. White
 2. Black
 3. Light Brown
+4. Brown
