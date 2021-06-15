@@ -23,4 +23,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of Hair Color
 1. White
 2. Black
-3. Gold
+4. Gold
+5. Silver
+6. Light Brown
+7. Brown
